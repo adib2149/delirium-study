@@ -17,7 +17,7 @@ The repository contains code for the publication manuscript "**Causal Discovery 
 
 ```plaintext
 .                                  # Main source code repository
-|───/00_data_preparation           # All relevant sql files before data extraction
+|───/                              # All relevant sql files before data extraction
 │   ├── 0_sql5-prereq.md           # Prerequisite before main sql files 
 │   ├── 1_sql5.md                  # Main sql file
 │   └── (*supporting_files*).sql   # Supporting sql files for prerequisite
